@@ -36,7 +36,7 @@
 
 #### Требования к результату
 * прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины   
-![task1.1](scrshts/task1.1.png?raw=true "Optional Title")
+![tz_1.1](scrshts/tz_1.1.png?raw=true "Optional Title")
 
 
 
